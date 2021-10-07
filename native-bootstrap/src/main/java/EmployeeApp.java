@@ -1,5 +1,5 @@
-package model;
-
+import model.Employee;
+import util.HibernateUtil;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
